@@ -1,9 +1,26 @@
 # SS Notes
 
+Economics
+
+* STUDY OF HOW INDIVIDUALS AND SOCIETIES CHOOSE
+TO ACQUIRE AND UTILIZE SCARCE RESOURCES
+
+Three Central Problems
+in Addressing Scarcity
+
+* What to Produce?
+* How to Produce
+* When to Produce?
+
+more stuff
+
 * Scarcity
   * In life there is a finite amount of resources.
 * Choices
   * The ability to allocate resources in the market
+  * The concepts of constrained choice and scarcity are central to the discipline of economics.
+  * They can be applied when discussing the behavior of individuals such as Tarzan and when analyzing the behavior of large groups of people in complex societies
+  * Choices are the options we have in addressing scarcity and its three problems
 * Opportunity cost
   * the loss when you make a choice
 * Relationship
