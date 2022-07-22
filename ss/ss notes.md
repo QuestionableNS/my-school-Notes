@@ -44,6 +44,7 @@ Ceteris paribus
 * Make uncontrolled situations to controlled
 * Humans are irrational
 * Uses Ceteris paribus to Make social science a hard science.
+* emotion dictaes our actions.
 
 esse est co esse
 
@@ -82,3 +83,45 @@ We are all economic agent
 * being rational should be balanced with irrationalty.
 
 ss grade 9 is what if
+
+optimal economic behavior
+
+* economist think this bad
+* why?
+* your acting on your self interest
+* companies maximize gains
+* they fire people but on for themselves so bad
+* wheneveryone optimal economic behavior "optimal chaos" or smth i forgor
+
+production posiblilities frontier
+
+* making
+* can happen
+* limit
+* shows maximum possible output combinations.
+
+![yes](download.png)
+
+part of ppf
+
+* only 2 to simplefly study
+* cloth or food
+* points of curves are optimized
+* untill 100 to because maximum out put.
+* if point is outside graph
+* point f is posible but still not posible
+* like inproving stuff
+* point e is bad bec less resourses
+* point e regress
+* e is not maximies not using resourses well
+* e bad but i like letter e
+* point e is maximum if resourses decrease.
+* opertunity cost
+  * if you select d less of food
+  * if point e not maximize and did not select better options.
+* choose where point in curve based on the nations wants
+
+economics consedes that even if its desireable it has reporcutions
+ppf shows that no choose is better or worse
+
+we should not be fully rational.
