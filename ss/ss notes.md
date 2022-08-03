@@ -125,3 +125,72 @@ economics consedes that even if its desireable it has reporcutions
 ppf shows that no choose is better or worse
 
 we should not be fully rational.
+
+consumption
+
+* consume produces for your needs and wants.
+* utility decesing as u consume producnt
+
+![amongus](https://upload.wikimedia.org/wikipedia/commons/0/03/Diminishing_Returns_Graph.png)
+
+* if you eat food u will get full
+* when 10 people in a project get a F
+
+| number of sandwitchers | ulility |  margin unility
+| ----------- | ----------- | -----------
+| 1           | 10          | 10
+| 2           | 25          | 15
+| 3           | 35          | 10
+| 4           | 40          | 4
+| 5           | 42          | 2
+| 6           | 32          | -6
+
+law of consumer thory
+
+* study how people acuired resourses based on their biases and constriants.
+
+1. prefrences are complete.
+2. prefrences are transitive
+   1. you can rank things
+3. all goods are desirable
+
+Poeple will buy goods more then their nesessity
+
+Production
+
+using imput and factor of production to produce outputs of value.
+
+3 factors of production
+
+* land
+  * office
+  * space
+* labor
+* capital
+  * MONEY 😍
+
+3 questions
+
+* how much is the output needed
+  * optimize how much do you make
+* method of production
+  * how to make product
+* How much input is needed
+  * how much raw materials we need
+
+efficency > effectivity
+
+produces ask this for efficency
+
+land space of buisenss and where the natural resourses.
+in using land u have to pay for rent
+
+wage and salery
+
+* payment for heired labor
+* wage is people with no contract
+* salery is payed every month
+
+more and more input the duration will get longer
+law of deminishing returns because we are irrational
+when problem irrational or scarity
