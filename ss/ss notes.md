@@ -168,6 +168,9 @@ using imput and factor of production to produce outputs of value.
 * labor
 * capital
   * MONEY 😍
+  * money invested to start a buisness.
+  * can be equipment or paper stocks and bonds
+  * more and more capital will make improve busness but will law of diminishing returns soon.
 
 3 questions
 
@@ -194,3 +197,34 @@ wage and salery
 more and more input the duration will get longer
 law of deminishing returns because we are irrational
 when problem irrational or scarity
+
+you can layoff people but u need land.
+
+pls Esse est Coesse 🥺
+
+sweatshop
+
+* over work under paid cant even affort what they are making
+* they should ballance work
+
+unions
+
+* to allow them to have a unified voice.
+* people dont like them because reduce profits and dammaage reputation
+* previeus workers just accept that it is what is it
+* newer generations dont accept it
+* new world order
+
+everything should be in moderration
+everything will end if we lessen our consumption
+
+cobra ad
+
+* propagranda
+* coco martin
+  * popular
+  * u will be the provinciano
+
+testimonial
+
+* a formal statement testifying to someone's character and qualifications.
